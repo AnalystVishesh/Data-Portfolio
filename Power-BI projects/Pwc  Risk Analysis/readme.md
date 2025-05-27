@@ -95,9 +95,3 @@
 
 ---
 
-## 📎 Credits
-
-This project is part of the **PwC Switzerland Virtual Internship** on **Forage**.  
-Built by [Your Name].
-
----
